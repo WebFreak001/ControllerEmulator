@@ -1,0 +1,8 @@
+{
+	"name": "remap-input",
+	"importPaths": [
+		"source",
+		"import"
+	],
+	"libs": ["evdev"]
+}

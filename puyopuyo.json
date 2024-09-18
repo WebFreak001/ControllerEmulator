@@ -1,0 +1,12 @@
+{
+	"pad:DPAD": {
+		"up": "key:UP",
+		"left": "key:LEFT",
+		"down": "key:DOWN",
+		"right": "key:RIGHT"
+	},
+	"btn:Y": "key:KP1",
+	"btn:A": "key:KP2",
+	"btn:X": "key:KP3",
+	"btn:B": "key:KP5"
+}
